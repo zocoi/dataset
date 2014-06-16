@@ -1,5 +1,5 @@
 {
-  "name": "miso.dataset",
+  "name": "d3.dataset",
   "version": "0.4.1",
   "description": "JavaScript library that makes managing the data behind client-side visualisations easy",
   "repository": {

@@ -1,0 +1,25 @@
+{
+  "name": "miso.dataset",
+  "version": "0.4.1",
+  "description": "JavaScript library that makes managing the data behind client-side visualisations easy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:misoproject/dataset.git"
+  },
+  "keywords": [
+    "d3.js",
+    "visualization",
+    "svg"
+  ],
+  "author": {
+    "name": "The Miso Project team",
+    "uri": "https://github.com/misoproject/dataset"
+  },
+  "license": "MIT Expat",
+  "dependencies": {
+    "d3": "3.x"
+  },
+  "main": "dist/miso.ds.deps.min.0.4.0.js",
+  "scripts": ["dist/miso.ds.deps.min.0.4.0.js"],
+  "homepage": "https://github.com/misoproject/dataset"
+}

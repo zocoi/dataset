@@ -19,7 +19,7 @@
   "dependencies": {
     "d3": "3.x"
   },
-  "main": "dist/miso.ds.deps.min.0.4.0.js",
-  "scripts": ["dist/miso.ds.deps.min.0.4.0.js"],
+  "main": "miso.ds.deps.min.0.4.0.js",
+  "scripts": ["miso.ds.deps.min.0.4.0.js"],
   "homepage": "https://github.com/misoproject/dataset"
 }
